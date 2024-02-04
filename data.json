@@ -1,0 +1,36 @@
+{
+     "Teacher": [
+          {
+               "email": "sayali",
+               "password": "agfhgaA23#",
+               "type": "Teacher",
+               "name": "",
+               "counter": 0
+          },
+          {
+               "email": "sau",
+               "password": "SdSdsd@3@",
+               "type": "Teacher",
+               "name": "",
+               "counter": 0
+          }
+     ],
+     "PGStudent": [
+          {
+               "email": "pappa",
+               "password": "adsgfSD34#$",
+               "type": "PGStudent",
+               "name": "",
+               "counter": 0
+          }
+     ],
+     "UGStudent": [
+          {
+               "email": "ayush",
+               "password": "Ashu@#23",
+               "type": "UGStudent",
+               "name": "",
+               "counter": 0
+          }
+     ]
+}
